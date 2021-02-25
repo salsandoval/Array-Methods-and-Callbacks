@@ -14,6 +14,8 @@ Practice accessing data by console.log-ing the following pieces of data note, yo
 //(d) Away Team goals for 2014 world cup final
 
 //(e) Winner of 2014 world cup final */
+var final = []
+
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
